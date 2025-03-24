@@ -1,0 +1,14 @@
+C:\Users\HENRIQUEMORAESONORAT\Desktop\projeto.henriqueonorato.24\bin\Debug\net8.0\projeto.henriqueonorato.24.exe
+C:\Users\HENRIQUEMORAESONORAT\Desktop\projeto.henriqueonorato.24\bin\Debug\net8.0\projeto.henriqueonorato.24.deps.json
+C:\Users\HENRIQUEMORAESONORAT\Desktop\projeto.henriqueonorato.24\bin\Debug\net8.0\projeto.henriqueonorato.24.runtimeconfig.json
+C:\Users\HENRIQUEMORAESONORAT\Desktop\projeto.henriqueonorato.24\bin\Debug\net8.0\projeto.henriqueonorato.24.dll
+C:\Users\HENRIQUEMORAESONORAT\Desktop\projeto.henriqueonorato.24\bin\Debug\net8.0\projeto.henriqueonorato.24.pdb
+C:\Users\HENRIQUEMORAESONORAT\Desktop\projeto.henriqueonorato.24\obj\Debug\net8.0\projeto.henriqueonorato.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HENRIQUEMORAESONORAT\Desktop\projeto.henriqueonorato.24\obj\Debug\net8.0\projeto.henriqueonorato.24.AssemblyInfoInputs.cache
+C:\Users\HENRIQUEMORAESONORAT\Desktop\projeto.henriqueonorato.24\obj\Debug\net8.0\projeto.henriqueonorato.24.AssemblyInfo.cs
+C:\Users\HENRIQUEMORAESONORAT\Desktop\projeto.henriqueonorato.24\obj\Debug\net8.0\projeto.henriqueonorato.24.csproj.CoreCompileInputs.cache
+C:\Users\HENRIQUEMORAESONORAT\Desktop\projeto.henriqueonorato.24\obj\Debug\net8.0\projeto.henriqueonorato.24.dll
+C:\Users\HENRIQUEMORAESONORAT\Desktop\projeto.henriqueonorato.24\obj\Debug\net8.0\refint\projeto.henriqueonorato.24.dll
+C:\Users\HENRIQUEMORAESONORAT\Desktop\projeto.henriqueonorato.24\obj\Debug\net8.0\projeto.henriqueonorato.24.pdb
+C:\Users\HENRIQUEMORAESONORAT\Desktop\projeto.henriqueonorato.24\obj\Debug\net8.0\projeto.henriqueonorato.24.genruntimeconfig.cache
+C:\Users\HENRIQUEMORAESONORAT\Desktop\projeto.henriqueonorato.24\obj\Debug\net8.0\ref\projeto.henriqueonorato.24.dll
